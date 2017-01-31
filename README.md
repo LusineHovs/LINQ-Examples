@@ -13,3 +13,5 @@ Here you can find examples of using different methods of LINQ.
 [LINQ_Let](https://github.com/LusineHovs/LINQ-Examples/tree/master/LINQ_Let)<br>
 
 
+#Keywords
+C# 6.0, .Net Framework 4.6, MS Visual Studio.
