@@ -1,3 +1,3 @@
 #README.md
 
-**Join** method merge two collections **on**, for example, ID. 
+**Join** method merges two collections **on**, for example, ID. 
