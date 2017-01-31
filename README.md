@@ -9,5 +9,6 @@ Here you can find examples of using different methods of LINQ.
 [LINQ_GroupBy](https://github.com/LusineHovs/LINQ-Examples/tree/master/LINQ_GroupBy)<br>
 [LINQ_GroupBy2](https://github.com/LusineHovs/LINQ-Examples/tree/master/LINQ_GroupBy2)<br>
 [LINQ_GroupByInto](https://github.com/LusineHovs/LINQ-Examples/tree/master/LINQ_GroupByInto)<br>
+[LINQ_Join](https://github.com/LusineHovs/LINQ-Examples/tree/master/LINQ_Join)<br>
 
 
