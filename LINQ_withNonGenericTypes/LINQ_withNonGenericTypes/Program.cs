@@ -14,7 +14,7 @@ namespace LINQ_withNonGenericTypes
             ArrayList numbers = new ArrayList();
             numbers.Add(1);
             numbers.Add(2);
-
+            // with non generic types we must write type
             var query = from int n in numbers
                         select new { Digit = n * 2 };
             foreach (var item in query)
